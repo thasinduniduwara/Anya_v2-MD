@@ -10,7 +10,7 @@
 
 /*
         📝 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗡𝗮𝗺𝗲: Queen Anya Ver.2
-        🐙 𝗚𝗶𝘁𝗵𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: [PikaBotz/Anya_v2-MD](https://github.com/PikaBotz/Anya_v2-MD)
+        🐙 𝗚𝗶𝘁𝗵𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: [PikaBotz/Anya_v2-MD] (https://github.com/thasinduniduwara/Anya_v2-MD)
         👤 𝗢𝘄𝗻𝗲𝗿/𝗖𝗿𝗲𝗮𝘁𝗼𝗿: @PikaBotz
         📌 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻:
         Queen Anya v2 is a versatile WhatsApp bot equipped with a variety of plugins for tasks, games, and utilities. 
